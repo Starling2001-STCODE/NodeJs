@@ -1,0 +1,14 @@
+{
+  "name": "01-bases",
+  "version": "0.0.1",
+  "description": "Primera app en node",
+  "license": "ISC",
+  "author": "Starling Rosario",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "echo 'Entorno de desarrollo' "
+  }
+}
